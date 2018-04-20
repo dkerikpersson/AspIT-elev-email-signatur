@@ -1,2 +1,2 @@
-# AspIT-elev-email-signature
-E-mail signatur for elever på AspIT
+# email-signature
+Official AspIT email signature
